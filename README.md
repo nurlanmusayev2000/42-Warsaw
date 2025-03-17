@@ -26,4 +26,3 @@ Welcome to my **42 Warsaw** repository! This repository contains my projects, ex
 - Applied **buffer management techniques** in file operations.
 - Practiced **defensive coding**, ensuring code robustness against edge cases.
 
-## 📂 Repository Structure
